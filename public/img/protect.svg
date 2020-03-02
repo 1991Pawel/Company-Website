@@ -1,0 +1,16 @@
+<svg id="icon_icon-protect" data-name="icon/icon-protect" xmlns="http://www.w3.org/2000/svg" width="64" height="71" viewBox="0 0 64 71">
+  <g id="icon-protect">
+    <g id="Oval" fill="#fff" stroke="#3c9fff" stroke-miterlimit="10" stroke-width="2">
+      <circle cx="32" cy="32" r="32" stroke="none"/>
+      <circle cx="32" cy="32" r="31" fill="none"/>
+    </g>
+    <g id="protect" transform="translate(16 12)">
+      <rect id="frame" width="32" height="32" fill="none"/>
+      <path id="Shape" d="M12.92,31.946C12.38,31.79,0,28.074,0,15.572V6.864A1.617,1.617,0,0,1,2.037,5.328a5.069,5.069,0,0,0,1.65.241c1.16,0,5.191-.356,8.346-4.946a1.67,1.67,0,0,1,2.6,0c2.778,4.041,6.045,4.89,8.3,4.89a6.984,6.984,0,0,0,1.707-.188,1.609,1.609,0,0,1,2.027,1.539v8.707c0,12.557-12.386,16.222-12.911,16.371a1.582,1.582,0,0,1-.836,0Z" transform="translate(2.667)" fill="#3c9fff"/>
+    </g>
+    <g id="monitor" transform="translate(0 47)">
+      <rect id="Rectangle" width="64" height="21" rx="2" fill="#3c9fff"/>
+      <text id="Protect-2" data-name="Protect" transform="translate(32 20)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-22.094" y="0">Protect</tspan></text>
+    </g>
+  </g>
+</svg>

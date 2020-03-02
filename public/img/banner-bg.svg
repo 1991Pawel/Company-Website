@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="768" viewBox="0 0 1440 768">
+  <defs>
+    <radialGradient id="radial-gradient" cx="1" cy="0" r="1.223" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0f0f0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="1440" height="768" fill="url(#radial-gradient)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="banner-bg" clip-path="url(#clip-path)">
+    <circle id="oval" cx="1142.5" cy="1142.5" r="1142.5" transform="translate(144 384)" fill="#fff"/>
+    <circle id="oval-2" data-name="oval" cx="1010" cy="1010" r="1010" transform="translate(749 -1331)" fill="url(#radial-gradient-2)"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="icon_icon-manage" data-name="icon/icon-manage" xmlns="http://www.w3.org/2000/svg" width="64" height="71" viewBox="0 0 64 71">
+  <g id="icon-manage">
+    <g id="Oval" fill="#fff" stroke="#1fc468" stroke-miterlimit="10" stroke-width="2">
+      <circle cx="32" cy="32" r="32" stroke="none"/>
+      <circle cx="32" cy="32" r="31" fill="none"/>
+    </g>
+    <g id="manage" transform="translate(16 12)">
+      <rect id="frame" width="32" height="32" fill="none"/>
+      <path id="Combined_Shape" data-name="Combined Shape" d="M12.541,23.928.372,17.864a.665.665,0,0,1-.3-.9.679.679,0,0,1,.909-.3l11.874,5.917,18.18-8.5a.681.681,0,0,1,.9.319.666.666,0,0,1-.322.891L13.134,23.936a.685.685,0,0,1-.288.064A.675.675,0,0,1,12.541,23.928Zm0-4.017L.372,13.849a.666.666,0,0,1-.3-.9.679.679,0,0,1,.908-.3L12.855,18.57l18.18-8.494a.679.679,0,0,1,.9.319.666.666,0,0,1-.322.89L13.134,19.92a.682.682,0,0,1-.593-.008Zm4.927-6.332-.069,0L8.19,13.222a3.432,3.432,0,0,1-1.341-.329L.385,9.839a.665.665,0,0,1,0-1.208L18.695.063a.69.69,0,0,1,.588.005l12.34,6a.666.666,0,0,1-.007,1.2l-12.6,5.98a3.489,3.489,0,0,1-1.481.333Zm-4.32-5.195a11.386,11.386,0,0,0,4.44,3.857,2.087,2.087,0,0,0,.842-.2L29.775,6.657l-10.8-5.246L2.252,9.239l5.18,2.447a2.06,2.06,0,0,0,.654.187,10.427,10.427,0,0,0,3.9-3.519.7.7,0,0,1,.589-.311A.677.677,0,0,1,13.148,8.384Zm1.729,3.756A11.485,11.485,0,0,1,12.541,9.9a11.676,11.676,0,0,1-2.1,2.068Z" transform="translate(0 4)" fill="#1fc468"/>
+    </g>
+    <g id="monitor" transform="translate(0 47)">
+      <rect id="Rectangle" width="64" height="21" rx="2" fill="#1fc468"/>
+      <text id="Manage-2" data-name="Manage" transform="translate(32 20)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-25.153" y="0">Manage</tspan></text>
+    </g>
+  </g>
+</svg>
